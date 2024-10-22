@@ -3,6 +3,7 @@ function isOdd(number) {
 }
 
 console.log(isOdd(7));
+console.log(isOdd(8));
 
 function increment(number) {
   return number + 1;
