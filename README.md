@@ -4,4 +4,4 @@ Git Collaboration Exercise
 
 A little changes by @deri561
 
-New Changes by @Deri-Kurniawan
+New Changes by @deri561 & @Deri-Kurniawan
